@@ -62,7 +62,7 @@ const Footer = () => {
             {/* MENU END */}
             <div className=' flex flex-col gap-3 shrink-0'>
               <div className=' font-oswald font-medium uppercase text-sm cursor-pointer'>
-                About nike
+                About Mobile Store
               </div>
               <div className=' font-medium uppercase text-sm text-white/[0.8]  hover:text-white  cursor-pointer'>
                 News
@@ -132,7 +132,7 @@ const Footer = () => {
       </Wrapper>
       <Wrapper className='flex justify-between mt-10 flex-col  md:flex-row pb-1 gap-[10px] md:gap-0'>
         <div className='text-sm text-white/[o.5] hover:text-white cursor-pointer text-center md:text-left'>
-          © 2023 Nike, Inc. All Rights Reserved
+          © 2023 All Rights Reserved
         </div>
 
         <div className='flex gap-2 md:gap-5 text-center md:text-left flex-wrap justify-center'>
