@@ -65,7 +65,7 @@ const CartItems = ({ data }) => {
 
         <div className=" flex items-center justify-between mt-4">
           <div className=" flex flex-wrap md:flex-nowrap items-center gap-2 md:gap-10 text-black/[0.5] text-sm md:text-md">
-            <div className=" flex items-center gap-5 md:gap-0" >
+            <div className=" flex flex-wrap md:flex-nowrap items-center gap-5 md:gap-0" >
               <div className=" font-semibold ">Storage</div>
               <select
                 className="hover:text-black"
